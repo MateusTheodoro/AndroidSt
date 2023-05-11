@@ -1,2 +1,0 @@
-Os apps Android podem ser escritos usando-se Kotlin, Java e linguagens C++. As ferramentas do Android SDK compilam o código em conjunto com todos os arquivos de dados e recursos em um APK, um pacote Android, que é um arquivo de sufixo .apk. Os arquivos de APK contêm todo o conteúdo de um app Android e são os arquivos que os dispositivos desenvolvidos para Android usam para instalar o aplicativo.
-
